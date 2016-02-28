@@ -1,0 +1,33 @@
+_repo: Little-Memoirs-of-the-Nineteenth-Century_6756
+creator:
+  author:
+    agent_name: Paston, George
+    alias: Symonds, Emily Morse
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '2191'
+    url: http://www.gutenberg.org/2009/agents/2191
+    wikipedia: http://en.wikipedia.org/wiki/George_Paston
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6756'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pückler-Muskau, Hermann, Fürst von, 1785-1871'
+- !lcsh 'Howitt, Mary Botham, 1799-1888'
+- !lcsh 'Morgan, Lady (Sydney), 1783-1859'
+- !lcc 'DA'
+- !lcsh 'Haydon, Benjamin Robert, 1786-1846'
+- !lcsh 'Stanhope, Hester Lucy, Lady, 1776-1839'
+- !lcsh 'Willis, Nathaniel Parker, 1806-1867'
+- !lcsh 'Howitt, William, 1792-1879'
+tableOfContents: Benjamin Robert Haydon -- Lady Morgan (Sydney Owenson) -- Nathaniel
+  Parker Willis -- Lady Hester Stanhope -- Prince Pückler-Muskau in England -- William
+  and Mary Howitt.
+title: Little Memoirs of the Nineteenth Century
+url: http://www.gutenberg.org/ebooks/6756
